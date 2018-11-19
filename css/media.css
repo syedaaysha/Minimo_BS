@@ -1,0 +1,60 @@
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.perfect-content h1 {
+	    font-size: 20px;
+	}
+
+	.single-content h1 {
+	    font-size: 20px;
+	}
+	
+	.signup_title h1 {
+	    font-size: 22px;
+	}
+
+	/*footer start*/
+	.footer {
+	    padding-top: 25px;
+	    padding-bottom: 10px;
+	}
+	.footer-content ul li{
+			font-size: 10px;		
+		}
+
+}
+
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.single-content h1 {
+	    font-size: 16px;
+	}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.single-content h1 {
+	    font-size: 19px;
+	}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.single-content h1 {
+	    font-size: 25px;
+	}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
+
+/*Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) {
+	
+}
